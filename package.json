@@ -9,6 +9,9 @@
     "type": "git",
     "url": "git+https://github.com/greenyouse/backstop-reporter.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "backstopjs",
     "report"
