@@ -1,6 +1,6 @@
 {
   "name": "@greenyouse/backstop-reporter",
-  "version": "4.0.4",
+  "version": "0.1.0",
   "description": "Copy of the BackstopJS report UI",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
