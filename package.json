@@ -1,0 +1,22 @@
+{
+  "name": "@greenyouse/backstop-reporter",
+  "version": "4.0.4",
+  "description": "Copy of the BackstopJS report UI",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenyouse/backstop-reporter.git"
+  },
+  "keywords": [
+    "backstopjs",
+    "report"
+  ],
+  "author": "https://github.com/garris/BackstopJS/graphs/contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greenyouse/backstop-reporter/issues"
+  },
+  "homepage": "https://github.com/greenyouse/backstop-reporter#readme"
+}
